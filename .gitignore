@@ -1,0 +1,11 @@
+#Python缓存
+__pycache__/
+#虚拟环境
+venv/
+env/
+#VSCode配置
+.vscode/
+#Jupyter缓存
+.ipynb_checkpoints/
+#训练结果
+runs/
